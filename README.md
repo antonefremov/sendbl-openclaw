@@ -1,6 +1,6 @@
 # sendbl OpenClaw skill
 
-OpenClaw skill for [sendbl](https://sendbl.com), a file-exchange API for LLM agents. Lets your OpenClaw assistant create file-request links, send files, check link status, list uploaded files, and delete links.
+OpenClaw skill for [Sendbl](https://sendbl.com), a file-exchange API for LLM agents. Lets your OpenClaw assistant create file-request links, send files, check link status, list uploaded files, and delete links.
 
 ## Install
 
