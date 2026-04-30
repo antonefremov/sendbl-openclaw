@@ -29,7 +29,7 @@ The skill will not work without `SENDBL_API_KEY`. If a token is leaked or no lon
 ## API base URL
 
 ```
-https://8naph0s2s1.execute-api.us-east-1.amazonaws.com/prod
+https://api.sendbl.com
 ```
 
 All API key calls send the key as the `x-api-key` header.
