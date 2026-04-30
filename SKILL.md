@@ -1,6 +1,6 @@
 ---
 name: sendbl
-description: Create sendbl file-exchange links — request files from someone, send a file, check link status, list files in a link, or delete a link. Use when the user wants to share a file or collect files from a counterparty over a link.
+description: Send files and request uploads via sendbl — create, check, and delete file-exchange links.
 homepage: https://sendbl.com
 metadata:
   openclaw:
