@@ -44,4 +44,4 @@ Once installed and configured, ask your assistant things like:
 
 ## Source
 
-<https://github.com/antonefremov/sendbl> (the API and this skill).
+<https://github.com/antonefremov/sendbl-openclaw> (this skill).
