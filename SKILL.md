@@ -104,7 +104,7 @@ curl -sS "$SENDBL_API/v1/fileDownloadLink?token=<owner_token>&file_id=<file_id>"
 
 ### 5. Delete a link
 
-Requires the `owner_token`. Removes the link **and all uploaded files** (DynamoDB rows + S3 objects).
+Requires the `owner_token`. Removes the link **and all uploaded files**.
 
 ```sh
 curl -sS -X DELETE "$SENDBL_API/v1/uploadLink?token=<owner_token>"
